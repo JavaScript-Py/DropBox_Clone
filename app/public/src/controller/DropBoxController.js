@@ -28,13 +28,13 @@ class DropBoxController {
         //Firebase Database informations
 
         const firebaseConfig = {
-            apiKey: "AIzaSyA3pVfFTIkpphSnXjsNIqh0R_0ahu3e6QM",
-            authDomain: "projeto-6c641.firebaseapp.com",
-            databaseURL: "https://projeto-6c641-default-rtdb.firebaseio.com/",
-            projectId: "projeto-6c641",
-            storageBucket: "projeto-6c641.appspot.com",
-            messagingSenderId: "702241747703",
-            appId: "1:702241747703:web:c96df4a84627d02a2359f2"
+            apiKey: "000000000000000",
+            authDomain: "project.com",
+            databaseURL: "https://project.com/",
+            projectId: "project",
+            storageBucket: "project.com",
+            messagingSenderId: "00000000000000000000000",
+            appId: "00000000000000000000000000000"
         };
 
         firebase.initializeApp(firebaseConfig);
